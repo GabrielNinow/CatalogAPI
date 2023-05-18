@@ -132,8 +132,8 @@ $RECYCLE.BIN/
 
 _NCrunch*
 
-./idea
-./vs
-./APICatalogo/.idea
-./APICatalogo/obj
-./APICatalogo/bin
+idea
+vs
+APICatalogo/.idea
+APICatalogo/obj
+APICatalogo/bin
